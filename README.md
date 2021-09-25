@@ -10,9 +10,7 @@ Skills: Python / HTML / Scratch/ JS
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am a licensed Amateur Radio Operator. 
 
-
+---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MasterJedi1525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCz97QW6wbWf1WdHaRmMlBNw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/u/jedi_master2569)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJedi1525)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 ![Profile views](https://gpvc.arturio.dev/MasterJedi1525)  
