@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Tyler.
-#### I am a 18 Year Old Computer Geek
+#### I am a 20 Year Old Computer Geek
 ![I am a 18 Year Old Computer Geek](https://github-readme-stats.vercel.app/api?username=MasterJedi1525&show_icons=true&hide_border=true")
 
 
